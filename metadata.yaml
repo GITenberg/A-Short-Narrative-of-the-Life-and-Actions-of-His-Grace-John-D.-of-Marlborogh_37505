@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '38887'
     url: http://www.gutenberg.org/2009/agents/38887
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37505#A-Short-Narrative-of-the-Life-and-Actions-of-His-Grace-John-D.-of-Marlborogh
 gutenberg_issued: '2011-09-22'
 gutenberg_type: Text
 identifiers:
