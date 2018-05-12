@@ -1,0 +1,40 @@
+_repo: A-Short-Narrative-of-the-Life-and-Actions-of-His-Grace-John-D.-of-Marlborogh_37505
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37505-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - John, Gabriel
+    - Moreton, Andrew
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+  editor:
+    agent_name: Backscheider, Paula R.
+    gutenberg_agent_id: '38887'
+    url: http://www.gutenberg.org/2009/agents/38887
+description: ''
+gutenberg_issued: '2011-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37505'
+  lccn: '75622507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Statesmen -- Great Britain -- Biography'
+- !lcsh 'Great Britain -- Court and courtiers -- Biography'
+- !lcsh 'Marlborough, John Churchill, Duke of, 1650-1722'
+- !lcsh 'Generals -- Great Britain -- Biography'
+title: A Short Narrative of the Life and Actions of His Grace John, D. of Marlborogh
+url: http://www.gutenberg.org/ebooks/37505
